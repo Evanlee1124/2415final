@@ -37,6 +37,15 @@ restaurants_data = pd.read_csv('/Users/lishuangyi/Downloads/Top_5_Cities_Fast_Fo
 restaurant_locations = restaurants_data[['name', 'categories', 'latitude', 'longitude']]
 restaurant_locations.dropna(subset=['latitude', 'longitude'], inplace=True)
 
+# Define specific cities and their populations
+cities_with_arrows = {
+    'Philadelphia': {'coords': (-75.1652, 39.9526), 'population': 1603797, 'text_coords': (-74.8, 39.8)},
+    'Pittsburgh': {'coords': (-79.9959, 40.4406), 'population': 302971, 'text_coords': (-79.5, 40.7)},
+    'Erie': {'coords': (-80.0851, 42.1292), 'population': 94717, 'text_coords': (-79.5, 42.3)},
+    'Harrisburg': {'coords': (-76.8867, 40.2732), 'population': 49528, 'text_coords': (-76.3, 40.1)},
+    'Johnstown': {'coords': (-78.9200, 40.3267), 'population': 19241, 'text_coords': (-78.3, 40.5)}
+}
+
 # Create the map
 plt.figure(figsize=(15, 12), dpi=300)
 
@@ -50,8 +59,21 @@ pa_counties.plot(ax=ax, facecolor='none', edgecolor='gray', linewidth=0.5, alpha
 for _, row in restaurant_locations.iterrows():
     plt.plot(row['longitude'], row['latitude'], 'g^', markersize=6)  # Green triangle for restaurants
 
+# Annotate cities with arrows pointing to their locations
+for city, data in cities_with_arrows.items():
+    city_lon, city_lat = data['coords']
+    text_lon, text_lat = data['text_coords']
+    pop = data['population']
+    plt.annotate(
+        f"{city}\nPop: {pop:,}",
+        xy=(city_lon, city_lat), xytext=(text_lon, text_lat),
+        fontsize=9, ha='center', va='bottom',
+        arrowprops=dict(arrowstyle='->', color='black', lw=1.5),
+        bbox=dict(facecolor='white', edgecolor='black', alpha=0.7)
+    )
+
 # Add map title and annotations
-plt.title('Pennsylvania: Map with Counties and Fast Food Restaurants', fontsize=16)
+plt.title('Pennsylvania: TOP5 cities - Fast Food Restaurants, and Populations', fontsize=16)
 plt.xlabel('Longitude', fontsize=10)
 plt.ylabel('Latitude', fontsize=10)
 
@@ -68,4 +90,3 @@ plt.savefig('./pennsylvania_restaurants_map.png', dpi=300, bbox_inches='tight')
 plt.show()
 
 print("Map with restaurants saved as 'pennsylvania_restaurants_map.png'.")
-
