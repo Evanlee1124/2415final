@@ -1,0 +1,108 @@
+Unnamed: 0,address,categories,city,country,latitude,longitude,name,postalCode,province,websites
+10,4105 Peach St,Fast Food Restaurant,Erie,US,42.092031,-80.084087,Arby's,16509,PA,"http://www.arbys.com,http://arbys.com"
+11,3720 Pine Ave,"American Restaurant, Fast Food Restaurant, and Sandwich Place",Erie,US,42.108355,-80.050799,Arby's,16504,PA,"http://www.arbys.com,https://locations.arbys.com/us/pa/erie/3720-pine-ave.html,http://locations.arbys.com/us/pa/erie/3720-pine-ave.html,http://arbys.com"
+26,3200 Chestnut St,Fast Food,Philadelphia,US,39.95343,-75.188171,Shake Shack,19104,PA,"http://www.shakeshack.com,https://www.shakeshack.com/location/university-city/"
+33,3104 W 26th St,Fast Food Restaurants,Erie,US,42.086667,-80.142521,Subway,16506,PA,http://subway.com
+34,8035 Perry Hwy,Fast Food Restaurants,Erie,US,42.068814,-80.038942,Subway,16509,PA,http://www.subway.com
+35,1501 E 38th St,Fast Food Restaurants,Erie,US,42.114222,-80.034149,Subway,16510,PA,http://www.subway.com
+41,4001 N 5th St,Fast Food,Philadelphia,US,40.011978,-75.135868,KFC - Kentucky Fried Chicken,19140,PA,http://www.kfc.com/
+43,201 N 63rd St,"Pizza Place, Fried Chicken Joint, and Fast Food Restaurant",Philadelphia,US,39.96589,-75.245925,West Point Pizza,19139,PA,http://www.manta.com/c/mmsygf2/west-point-pizza
+45,2604 E Somerset St,Fast Food,Philadelphia,US,39.980387,-75.113118,Tacconelli's Pizza,19134,PA,http://www.tacconellispizzeria.com
+46,2805 N 22nd St,Sandwich Place and Fast Food Restaurant Allegheny West,Philadelphia,US,39.997345,-75.166952,Sumo Steaks,19132,PA,http://sumosteaks.com
+48,1000 Airport Blvd,Fast Food Restaurants,Pittsburgh,US,40.496025,-80.256707,Charley's Grilled Subs,15231,PA,http://www.charleyssteakery.com
+50,2233 S Woodstock St,Fast Food Restaurants,Philadelphia,US,39.9237,-75.18028,King of Wings,19145,PA,"http://www.kingofwings1.com,http://www.kingofwings1.com/,http://kingofwings1.com"
+53,3400 Aramingo Ave,Fast Food Restaurants,Philadelphia,US,39.99126,-75.101455,Subway,19134,PA,http://subway.com
+54,2201 Walnut St,Fast Food Restaurants,Philadelphia,US,39.950944,-75.177461,Subway,19103,PA,http://www.subway.com
+58,3705 Germantown Ave,Fast Food,Philadelphia,US,40.009414,-75.150843,Dunkin' Donuts,19140,PA,"http://www.dunkindonuts.com,https://www.dunkindonuts.com/,http://dunkindonuts.com"
+59,2901 Abbottsford Ave,Fast Food,Philadelphia,US,40.017422,-75.17215,Dunkin' Donuts,19129,PA,"http://www.dunkindonuts.com,http://dunkindonuts.com"
+60,2318 N Front St,Fast Food,Philadelphia,US,39.985098,-75.132111,Dunkin' Donuts,19133,PA,http://www.dunkindonuts.com
+61,221 W Hunting Park Ave,Fast Food,Philadelphia,US,40.014433,-75.130667,Dunkin' Donuts,19140,PA,"http://www.dunkindonuts.com,https://www.dunkindonuts.com/"
+62,2327 Cottman Ave,Fast Food,Philadelphia,US,40.048325,-75.061035,Dunkin' Donuts,19149,PA,"http://www.dunkindonuts.com,http://dunkindonuts.com"
+63,1501 N 52nd St,Fast Food,Philadelphia,US,39.977237,-75.226766,Dunkin' Donuts,19131,PA,"http://www.dunkindonuts.com,http://www.dunkindonuts.com/,http://dunkindonuts.com"
+64,3050 Churchview Ave,Fast Food Restaurants,Pittsburgh,US,40.385779,-79.96767,The Pizza Company,15227,PA,http://www.thepizzacompany.biz
+66,4310 Union Deposit Rd,"Fast Food Restaurant, American Restaurant, and Sandwich Place",Harrisburg,US,40.279585,-76.812669,Arby's,17111,PA,http://www.arbys.com
+67,4310 Union Deposit Rd,Fast Food,Harrisburg,US,40.279585,-76.812669,Arby's,17111,PA,http://www.arbys.com
+68,2812 W 26th St,"Fast Food Restaurant, American Restaurant, and Sandwich Place",Erie,US,42.089303,-80.135565,Arby's,16506,PA,"http://www.arbys.com,http://arbys.com"
+69,431 N 62nd St,Fast Food Restaurants,Philadelphia,US,39.969326,-75.243301,Jim's Steaks,19151,PA,"http://jimssteaksphilly.com,http://www.jimssteaks.com,http://jimssteaksphilly.com/"
+74,3925 Walnut St,Fast Food Restaurants,Philadelphia,US,39.954332,-75.201935,Bobby's Burger Palace,19104,PA,http://www.bobbysburgerpalace.com
+84,450 Schoolhouse Rd,Fast Food Restaurants,Johnstown,US,40.269558,-78.837952,Subway,15904,PA,"http://www.subway.com,http://subway.com"
+94,7221 Torresdale Ave,Fast Food,Philadelphia,US,40.029518,-75.036344,Dunkin' Donuts,19135,PA,http://www.dunkindonuts.com
+95,701 Market St,Fast Food,Philadelphia,US,39.950954,-75.152012,Dunkin' Donuts,19106,PA,"http://www.dunkindonuts.com,http://www.dunkindonuts.com/"
+96,5753 Wayne Ave,Fast Food,Philadelphia,US,40.032183,-75.17969,Dunkin' Donuts,19144,PA,http://www.dunkindonuts.com
+98,461 Clairton Blvd,Fast Food Restaurant,Pittsburgh,US,40.335529,-79.947258,Chick-fil-A,15236,PA,http://www.chick-fil-a.com/pleasanthills
+101,1000 Ross Park Mall Dr,Fast Food Restaurant,Pittsburgh,US,40.541146,-80.006528,Chick-fil-A,15237,PA,http://www.chick-fil-a.com/rossparkmall
+102,901 Market St,Fast Food,Philadelphia,US,39.951333,-75.155183,Chick-fil-A,19107,PA,http://chick-fil-a.com/
+103,2204 S Columbus Blvd,Fast Food Restaurant,Philadelphia,US,39.919417,-75.140662,Chick-fil-A,19148,PA,"http://www.chick-fil-a.com/columbuscommons,https://www.chick-fil-a.com/Locations/PA/Columbus-Commons"
+127,1508 Scalp Ave,Fast Food Restaurants,Johnstown,US,40.26938,-78.85706,Burger King,15904,PA,"https://locations.bk.com/pa/johnstown/1508-scalp-ave.html,https://www.bk.com,http://www.bk.com"
+128,440 Galleria Dr,Fast Food Restaurants,Johnstown,US,40.293916,-78.838107,Burger King,15904,PA,"https://locations.bk.com/pa/johnstown/440-galleria-dr.html,http://www.bk.com"
+130,3253 Paxton St,Fast Food Restaurant,Harrisburg,US,40.254298,-76.834182,Burger King,17111,PA,"https://locations.bk.com/pa/harrisburg/3253-paxton-st.html,http://www.bk.com"
+145,1037 Chestnut St,Fast Food Restaurants,Philadelphia,US,39.950332,-75.158423,Taco Bell,19107,PA,"http://tacobell.com,https://locations.tacobell.com/pa/philadelphia/1037-chestnut-st.html?utm_source=yextandutm_campaign=yextpowerlistingsandutm_medium=referralandutm_term=029331andutm_content=website"
+146,1037 Chestnut St,Fast Food Restaurant,Philadelphia,US,39.950332,-75.158423,Taco Bell,19107,PA,"http://tacobell.com,https://locations.tacobell.com/pa/philadelphia/1037-chestnut-st.html?utm_source=yextandutm_campaign=yextpowerlistingsandutm_medium=referralandutm_term=029331andutm_content=website"
+150,3417 Forbes Ave,"Fast Food Restaurant, American Restaurant, and Sandwich Place",Pittsburgh,US,40.439155,-79.960715,Arby's,15213,PA,"http://arbys.com/our-menu,http://www.arbys.com"
+151,3417 Forbes Ave,Fast Food Restaurant,Pittsburgh,US,40.439155,-79.960715,Arby's,15213,PA,"http://arbys.com/our-menu,http://www.arbys.com"
+152,4810 McKnight Rd,Fast Food Restaurant,Pittsburgh,US,40.525383,-80.004974,Arby's,15237,PA,"http://www.arbys.com,https://locations.arbys.com/us/pa/pittsburgh/4810-mcknight-rd.html"
+155,577 Franklin Mills Blvd,"Fast Food Restaurant, American Restaurant, and Sandwich Place Northeast Philadelphia",Philadelphia,US,40.089864,-74.964175,Arby's,19154,PA,"http://www.arbys.com,https://locations.arbys.com/us/pa/philadelphia/577-franklin-mills-blvd.html,http://arbys.com"
+161,1243 Scalp Ave,Fast Food Restaurants,Johnstown,US,40.276861,-78.860262,Arby's,15904,PA,"http://www.arbys.com,https://locations.arbys.com/us/pa/johnstown/1243-scalp-ave.html,http://locations.arbys.com/us/pa/johnstown/1243-scalp-ave.html"
+162,7521 New Perry Hwy,"Fast Food Restaurant, American Restaurant, and Sandwich Place",Erie,US,42.072191,-80.04191,Arby's,16509,PA,"http://www.arbys.com,http://arbys.com"
+164,4300 Roosevelt Blvd,Fast Food,Philadelphia,US,40.029759,-75.105425,Charlie's Pizzeria,19124,PA,http://charlies-pizzeria.com
+169,520 Galleria Dr,Fast Food Restaurants,Johnstown,US,40.297204,-78.835989,Long John Silver's,15904,PA,http://www.ljsilvers.com
+182,219 Haynes St,Fast Food Restaurant,Johnstown,US,40.320764,-78.919648,McDonald's,15901,PA,"http://mcdonalds.com,http://www.mcdonalds.com/?cid=RF:YXT_FM:TP::Yext:Referral"
+184,530 Galleria Dr,Fast Food Restaurant,Johnstown,US,40.297585,-78.835691,McDonald's,15904,PA,"http://mcdonalds.com,http://www.mcdonalds.com/?cid=RF:YXT_FM:TP::Yext:Referral"
+187,850 Eisenhower Blvd,Fast Food,Harrisburg,US,40.240442,-76.805052,McDonald's,17111,PA,http://mcdonalds.com
+199,7317 Mcknight Rd,Fast Food Restaurant,Pittsburgh,US,40.537919,-80.011701,Wendy's,15237,PA,http://www.wendys.com
+200,2691 Freeport Rd,Fast Food Restaurant,Pittsburgh,US,40.536593,-79.840641,Wendy's,15238,PA,http://www.wendys.com
+205,5253 Frankford Ave,Fast Food Restaurants,Philadelphia,US,40.022965,-75.07733,Dairy Queen,19124,PA,"http://www.dairyqueen.com,http://www.dairyqueen.com/,http://dairyqueen.com"
+206,200 W Lehigh Ave,Fast Food,Philadelphia,US,39.99105,-75.135332,McDonald's,19133,PA,"http://mcdonalds.com/,http://mcdonalds.com,http://www.mcdonalds.com/?cid=RF:YXT_FM:TP::Yext:Referral"
+212,2656 W 12th St,Fast Food Restaurants,Erie,US,42.10202,-80.140725,KFC,16505,PA,"http://kfc.com,http://www.kfc.com"
+213,700 E Hunting Park Ave,Fast Food Restaurant,Philadelphia,US,40.011584,-75.112833,Wendy's,19124,PA,"http://wendys.com,http://www.wendys.com"
+215,1774 Lyter Dr,Fast Food Restaurants,Johnstown,US,40.320779,-78.956385,Dairy Queen,15905,PA,http://www.dairyqueen.com
+219,1109 S Broad St,Fast Food,Philadelphia,US,39.937467,-75.166834,Papa John's Pizza,19147,PA,"https://www.papajohns.com,http://www.papajohns.com"
+221,1 Rutherford Rd,Fast Food Restaurant,Harrisburg,US,40.292938,-76.807358,Wendy's Valenti Management,17109,PA,http://wendys.valentirestaurants.com
+224,481 Lincoln Ave,Fast Food Restaurants,Pittsburgh,US,40.460967,-79.91008,Pizza Hut,15202,PA,http://www.pizzahut.com
+237,710 W Girard Ave,Fast Food Restaurants,Philadelphia,US,39.970435,-75.147899,Tiffin,19123,PA,"http://tiffin.com,http://www.tiffin.com,http://www.tiffin.com/"
+246,2005 Market St,Fast Food,Philadelphia,US,39.953602,-75.173279,Au Bon Pain,19103,PA,http://www.aubonpain.com
+249,8298 Bustleton Ave,Fast Food,Philadelphia,US,40.066613,-75.051176,Dunkin' Donuts,19152,PA,"http://www.dunkindonuts.com,http://dunkindonuts.com"
+250,8000 Pine Rd,Fast Food,Philadelphia,US,40.077221,-75.085188,Dunkin' Donuts,19111,PA,"http://www.dunkindonuts.com,http://www.dunkindonuts.com/"
+252,7702 Mcknight Rd,Fast Food Restaurants,Pittsburgh,US,40.545413,-80.016243,McDonald's,15237,PA,"http://mcdonalds.com,http://www.mcdonalds.com/?cid=RF:YXT_FM:TP::Yext:Referral"
+254,608 Wood St,Fast Food,Pittsburgh,US,40.44083,-79.886296,McDonald's,15222,PA,"http://www.mcdonalds.com,http://www.mcdonalds.com/?cid=RF:YXT_FM:TP::Yext:Referral"
+255,3708 Forbes Ave,Fast Food Restaurant Central Oakland,Pittsburgh,US,40.441128,-79.957619,McDonald's,15213,PA,http://mcdonalds.com
+256,363 Perry Hwy,Fast Food Restaurant,Pittsburgh,US,40.517801,-80.029354,McDonald's,15229,PA,"http://www.mcdonalds.com,http://www.mcdonalds.com/?cid=RF:YXT_FM:TP::Yext:Referral,http://www.mcdonalds.com/us/en/home.html"
+257,250 Summit Park Dr,Fast Food Restaurants,Pittsburgh,US,40.45116,-80.185857,McDonald's,15275,PA,"http://www.mcdonalds.com/?cid=RF:YXT_FM:TP::Yext:Referral,http://www.mcdonalds.com"
+258,225 Mount Lebanon Blvd,Fast Food Restaurant,Pittsburgh,US,40.368576,-80.037954,McDonald's,15234,PA,"http://mcdonalds.com,http://www.mcdonalds.com/?cid=RF:YXT_FM:TP::Yext:Referral"
+259,549 Clairton Blvd,Fast Food Restaurant,Pittsburgh,US,40.332459,-79.946008,McDonald's,15236,PA,http://mcdonalds.com
+260,100 Davis Blvd,Fast Food Restaurant,Pittsburgh,US,40.449249,-80.173662,McDonald's,15275,PA,"http://mcdonalds.com,http://www.mcdonalds.com/?cid=RF:YXT_FM:TP::Yext:Referral"
+261,1 Poplar St,Fast Food Restaurant,Pittsburgh,US,40.42765,-80.053364,McDonald's,15205,PA,"http://www.mcdonalds.com,http://www.mcdonalds.com/?cid=RF:YXT_FM:TP::Yext:Referral,http://www.mcdonalds.com/us/en/home.html"
+262,1 Poplar St,Fast Food,Pittsburgh,US,40.42765,-80.053364,McDonald's,15205,PA,"http://www.mcdonalds.com,http://www.mcdonalds.com/?cid=RF:YXT_FM:TP::Yext:Referral,http://www.mcdonalds.com/us/en/home.html"
+264,9970 Bustleton Ave,Fast Food Restaurants,Philadelphia,US,40.100757,-75.029629,McDonald's,19115,PA,"http://mcdonalds.com,http://www.mcdonalds.com/?cid=RF:YXT_FM:TP::Yext:Referral,http://www.mcdonalds.com/"
+265,914 S Broad St,Fast Food,Philadelphia,US,39.93989,-75.166325,McDonald's,19146,PA,"http://mcdonalds.com,http://www.mcdonalds.com/?cid=RF:YXT_FM:TP::Yext:Referral"
+266,6470 Torresdale Ave,Fast Food Restaurants,Philadelphia,US,40.023046,-75.048852,McDonald's,19135,PA,"http://mcdonalds.com,http://www.mcdonalds.com/?cid=RF:YXT_FM:TP::Yext:Referral"
+267,5601 Vine St,Fast Food Restaurant Haddington,Philadelphia,US,39.965623,-75.231926,McDonald's,19139,PA,"http://mcdonalds.com,http://www.mcdonalds.com/?cid=RF:YXT_FM:TP::Yext:Referral,http://mcdonalds.com/"
+268,4200 N Broad St,Fast Food Restaurant,Philadelphia,US,40.016922,-75.149492,McDonald's,19140,PA,"http://mcdonalds.com,http://www.mcdonalds.com/?cid=RF:YXT_FM:TP::Yext:Referral"
+269,4200 N Broad St,Fast Food Restaurants,Philadelphia,US,40.016922,-75.149492,McDonald's,19140,PA,"http://mcdonalds.com,http://www.mcdonalds.com/?cid=RF:YXT_FM:TP::Yext:Referral"
+270,3100 W Allegheny Ave,Fast Food Restaurant and Burger Joint Allegheny West,Philadelphia,US,40.00509,-75.180047,McDonald's,19132,PA,"http://mcdonalds.com,http://www.mcdonalds.com/?cid=RF:YXT_FM:TP::Yext:Referral,http://www.mcdonalds.com/"
+271,2109 N Broad St,Fast Food Restaurant North Philadelphia,Philadelphia,US,39.984838,-75.156546,McDonald's,19122,PA,"http://mcdonalds.com,http://www.mcdonalds.com/?cid=RF:YXT_FM:TP::Yext:Referral,http://mcdonalds.com/"
+299,490 Central Ave,Fast Food Restaurant,Johnstown,US,40.2996,-78.9115,Sheetz,15902,PA,http://www.sheetz.com
+307,4221 Ohio River Blvd,Fast Food Restaurant,Pittsburgh,US,40.48643,-80.05481,BeanThru,15202,PA,http://www.beanthru.com
+315,7855 Perry Hwy,Fast Food,Erie,US,42.071115,-80.039596,McDonald's,16509,PA,"http://mcdonalds.com,http://www.mcdonalds.com/?cid=RF:YXT_FM:TP::Yext:Referral"
+316,520 3rd Ave,Fast Food Restaurants,Pittsburgh,US,40.437239,-79.997301,Chinatown Inn,15219,PA,"http://chinatowninn.net,http://www.chinatowninn.net"
+320,4371 Richmond St,Fast Food Restaurants,Philadelphia,US,39.996712,-75.074352,Wawa,19137,PA,"http://www.wawa.com,https://www.wawa.com"
+323,430 State St,Fast Food Restaurants,Erie,US,42.130325,-80.086874,McDonald's,16501,PA,"http://mcdonalds.com,http://www.mcdonalds.com/?cid=RF:YXT_FM:TP::Yext:Referral,http://api.citygridmedia.com/content/places/v2/click?q=9YKflVKbY9NauPJdMy0B1gS1IhB4xv4EWw0zDoT-UWc_izWF3zs5PKGdfOHubWrvM0QwDCYwbOH2fdLi0dK5xArULcksCCbfR-WWAz9xD1AmGVAQZIom4U3n5R4DuRC8WJCtvJcNItEKoCSfzwapuGnmwGnHDpEGYXGjnN4u8zXqkiimSHFf4_dbqGRbVgNJC0dodFjNyWqMaDbBRVaDTAUg7Bayu-1bGmKcnaiVIiiMT8Z_ZFW66LGuWdS6Ag7smES8SJj7VMBhNsRcvRUzF6xJ6x3OPiuEGWcPuDGAVckYVS9_mOWWNPga-BDBYoo_oL83RdnhQAXencRmIJsakLD_zFE8ePWCkuyRWVbK-LMB4rTIjLFgOXEfQPnl6-YXxxBntUY2TDDULrnLTAVk1Kg8ZbJGv0rw-s2OFbertgI3reewYOi_XvNNcdHZJX8Y2fajbkIE9qGwNXTVXu0woK19QlMPX6THBM_IoECxblKoulnfRmgm6qgJFHrx-rnoz4y84VRgV5ZyWk9dK-zq9VAaxYiuitUP&placement=listing_profile&cs_user=unknown&cs_session=7eeed4d4b69eb9c98bc32bdc72dce3f825df0598"
+325,4316 Buffalo Rd,Fast Food,Erie,US,42.146291,-80.00426,McDonald's,16510,PA,"http://mcdonalds.com,http://www.mcdonalds.com/?cid=RF:YXT_FM:TP::Yext:Referral,http://api.citygridmedia.com/content/places/v2/click?q=9YKflVKbY9NauPJdMy0B1gS1IhB4xv4EWw0zDoT-UWc_izWF3zs5PKGdfOHubWrvM0QwDCYwbOH2fdLi0dK5xArULcksCCbfR-WWAz9xD1AmGVAQZIom4U3n5R4DuRC8WJCtvJcNItEKoCSfzwapuGnmwGnHDpEGYXGjnN4u8zXqkiimSHFf4_dbqGRbVgNJMEsyqLWgBLhwuLOLaKte0FR242fItKJMNnous3u0NYQOagV_tCFUZEg4UeNWzkd8Y1eqGS2W5tCE8GC05-fK9oCYoW29Q-lnH350vYbXPhaYiEwIc2kq74yEUttOvDo3OzEfYGInfEh7g7fXKeQ3R34zGGVprSaidD4NNbvbyRUrwF9gW6RidRcXUN_DV5v_yM2XOtKeQxKsCihjNkMxR25xxN6Ak9hK2r6Ujm4FmqdE4rpLbtXevC3iK6uHdO89ckVy2a4FqhjId5-_JC6a1UwaJYuyTCcKvk0Y9MNVQLMsoT0PfdW5l5xRCGn_eVLuWyuLVOBqoDnbBRMOMNXcM6knIvoZeFK4&placement=listing_profile&cs_user=unknown&cs_session=f3962862de7f0044d238024a0627c0cf588009b8"
+338,136 Strawberry Sq,Fast Food Restaurants,Harrisburg,US,40.259785,-76.882783,Subway,17101,PA,http://www.subway.com
+340,5083 Jonestown Rd,Fast Food Restaurant,Harrisburg,US,40.30807,-76.80277,Old Country Buffet,17112,PA,"http://locations.buffet.com/va/woodbridge/0211/,http://locations.buffet.com/pa/harrisburg/0234/,http://www.oldcountrybuffet.com"
+345,244 Strawberry Sq,Fast Food Restaurant,Harrisburg,US,40.26197334,-76.88118964,Arby's,17101,PA,http://www.arbys.com
+354,4635 High Pointe Blvd,Fast Food Restaurants,Harrisburg,US,40.24518907,-76.80411409,Subway,17111,PA,"http://www.subway.com,http://subway.com"
+359,339 Main St,Fast Food Restaurant and Burger Joint,Johnstown,US,40.326614,-78.920599,Burger King,15901,PA,"http://burgerking.com,http://www.burgerking.com"
+371,891 Freeport Rd,Fast Food Restaurant,Pittsburgh,US,40.4995,-79.8529,Wendy's,15238,PA,http://www.wendys.com
+372,300 S Craig St,Fast Food Restaurants,Pittsburgh,US,40.44557,-79.94915,Quiznos,15213,PA,"http://restaurants.quiznos.com/pa/pittsburgh/carnegiemellonuniversity-15213,http://quiznos.com"
+373,5427 Oxford Ave,Fast Food,Philadelphia,US,40.03096,-75.08434,Checkers,19124,PA,"https://locations.checkers.com/pa/philadelphia/5427-oxford-avenue,http://www.checkers.com,https://www.checkers.com,http://checkers.com/"
+374,5427 Oxford Ave,Fast Food Restaurants,Philadelphia,US,40.03096,-75.08434,Checkers,19124,PA,"https://locations.checkers.com/pa/philadelphia/5427-oxford-avenue,http://www.checkers.com,https://www.checkers.com,http://checkers.com/"
+375,5129 Market St,Fast Food Restaurants,Philadelphia,US,39.96014,-75.2243,Checkers,19139,PA,"https://locations.checkers.com/pa/philadelphia/5129-market-street,https://www.checkers.com"
+376,527 Franklin Mills Cir,Fast Food,Philadelphia,US,40.08174,-74.9616,KFC,19154,PA,"http://www.kfc.com,http://www.kfc.com/,http://kfc.com"
+377,3359 Kensington Ave,Fast Food Restaurants,Philadelphia,US,39.99864,-75.10917,7-Eleven,19134,PA,"http://www.7-eleven.com,http://www.7-eleven.com/?yext=21048,http://7-eleven.com/?yext=21048"
+378,2900 Island Ave,Fast Food,Philadelphia,US,39.90384,-75.24059,Burger King,19153,PA,"http://www.bk.com,https://locations.bk.com/pa/philadelphia/2900-island-ave.html,http://www.burgerking.com/"
+379,5720 Baltimore Ave,Fast Food Restaurant and Burger Joint,Philadelphia,US,39.94566629,-75.23952836,Checkers,19143,PA,"https://locations.checkers.com/pa/philadelphia/5726-46-baltimore-avenue,http://www.checkers.com,http://checkers.com"
+380,5720 Baltimore Ave,Fast Food Restaurants,Philadelphia,US,39.94566629,-75.23952836,Checkers,19143,PA,"https://locations.checkers.com/pa/philadelphia/5726-46-baltimore-avenue,http://www.checkers.com,http://checkers.com"
+381,5700 Baltimore Ave,Fast Food Restaurant,Philadelphia,US,39.946,-75.2376,KFC,19143,PA,http://www.kfc.com
+382,2422 W Passyunk Ave,Fast Food Restaurant,Philadelphia,US,39.92207,-75.18748,Taco Bell,19145,PA,"http://www.tacobell.com,https://locations.tacobell.com/pa/philadelphia/2422-w-passyunk-avenue.html?utm_source=yextandutm_campaign=yextpowerlistingsandutm_medium=referralandutm_term=K071099andutm_content=website"
+383,3604 Chestnut St,Fast Food Restaurants,Philadelphia,US,39.9546,-75.1946,Wawa,19104,PA,https://www.wawa.com
