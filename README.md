@@ -1,4 +1,4 @@
-# 2415final
+# INFSCI 2415final
 information visualization
 
 figure1 uses PA_Restaurant.csv
